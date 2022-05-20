@@ -1,1 +1,4 @@
 This file is yours..Put your proposals (topic + format) here
+
+Ideas:
+* Presentation (20/30 min) + labs (15/20 min) + step by step correction from scratch (30/40 min) about a tool which allows us to do a benchmark of our APIs. (Not a micro benchmark but a macro benchmark on our APIs, for instance on ephemeral environment). (Gatling? The tool expected to be used inside our CI.)
